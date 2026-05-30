@@ -65,7 +65,7 @@ Cross-Validation Accuracy : 75.8% (+/- 2.3%)
 
 ### Matrice de Confusion — Random Forest (200 samples test)
 
-![Matrice de Confusion](assertsconfusion_matrix_rf.png.png)
+![Matrice de Confusion](asserts/confusion_matrix_rf.png.png)
 
 | Langue | Precision | Recall | F1-score |
 |--------|-----------|--------|----------|
@@ -75,11 +75,11 @@ Cross-Validation Accuracy : 75.8% (+/- 2.3%)
 
 ### Séparabilité acoustique des formants
 
-![Séparabilité Acoustique](assertsseparabilite_acoustique.png.png)
+![Séparabilité Acoustique](asserts/separabilite_acoustique.png.png)
 
 ### Distribution MFCC1 par langue
 
-![Distribution MFCC1](assertsdistribution_mfcc1.png.png)
+![Distribution MFCC1](asserts/distribution_mfcc1.png.png)
 
 ---
 
