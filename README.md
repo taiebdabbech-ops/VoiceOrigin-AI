@@ -171,8 +171,7 @@ VoiceOrigin-AI/
 ## 👤 Auteur
 
 **Taieb DABBECH**
-Étudiant Ingénieur ICT — SUP'COM Tunis (INDP1)
-Membre GDG Sup'COM (AI & Web Dev)
+Étudiant Ingénieur ICT — SUP'COM Tunis 
 
 [![GitHub](https://img.shields.io/badge/GitHub-taiebdabbech--ops-black?logo=github)](https://github.com/taiebdabbech-ops)
 [![Email](https://img.shields.io/badge/Email-taiebdabbech%40gmail.com-red?logo=gmail)](mailto:taiebdabbech@gmail.com)
